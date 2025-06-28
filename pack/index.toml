@@ -1,0 +1,121 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/canary.pw.toml"
+hash = "14481081a9e233f4ba57df8a77ce028184818143eae1c73b60749ea482c912e9"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d562d034b94bf5e26846192868d9359369b6e24bacdd4483776fa909be04301c"
+metafile = true
+
+[[files]]
+file = "mods/chloride.pw.toml"
+hash = "7448f603e608a8993217cd8d3715ca809692dcc399d947b08a03d7552479d421"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "7e760286c1ef73a5fe82e2ca8b542672eb34b86a36cf44eb8b3e48ac94c40d0e"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "f5ae0279608413cd5f948a3f2ee14e8ab32514a3903973ea3119448d1b9cfadb"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "b0ccdb103b9dc809d726d96d5761b9e78470202128c48a1659d15bd590ecb9df"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "a5653971e1de05445581727a2f96dda7d7fba7b85d2f4e2df01e474e1c16199a"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/i18nupdatemod.pw.toml"
+hash = "53f3e5b62eb4f680e88d67318a043ec123eba451bc3589dfa3c131ee90ddec42"
+metafile = true
+
+[[files]]
+file = "mods/lesraisins-weapon.pw.toml"
+hash = "199449c61573ecbda4e3caa7b76f5f0f9aa8d23ffd2b8c8c116b274d97e87073"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.pw.toml"
+hash = "aada1b66bb702ea21749933d50b0505125fdd15dc83f179d29e2dff4846de7d2"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "b375f3bbdec0ad58758bcbecea9329e2bdfb10289fc43e314cc43eb4da42069f"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "1588f074af0ca7a5145fd676faf3e14381bb96d1383a3dfbaac7398b1dc6e2fd"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "198fcf693721326f338e2fa3505a93802b0a52edb6567e82b232bb3a93d5f6bc"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "035b1bb233af54ca23d39a899a99cc956477f867cc0c7548894cbd3f6b277a44"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "be8e5dcdb1ee5d986c0431e78db74fd8be0e24f55e7f7daaaa9c456aee170935"
+metafile = true
+
+[[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "985d34e70842a5c8e0a8a4e35be894e5f5c6d0dcbe25f2a8f74a45616d32be33"
+metafile = true
+
+[[files]]
+file = "mods/tacz-fire-control-extension.pw.toml"
+hash = "9f981185d7e54729ad6289a82bcb13d67106b68f8bad9300ba31694864855de9"
+metafile = true
+
+[[files]]
+file = "mods/tacz-gucci-vuitton-attachments.pw.toml"
+hash = "dd600f6fe8ced6d3c1ccbe597d708fe26f1f385db474e0489a93ed69b7f14047"
+metafile = true
+
+[[files]]
+file = "mods/timeless-and-classics-zero.pw.toml"
+hash = "4d30fd305885feef68bb6b4c3d5e5945b96b6b2e7cd44c6455c29133037217ba"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap-fair.pw.toml"
+hash = "5e25537fca95f7d759ae5ada2e7ba4fdf4b9de055070cc0a90709fc2e4c48552"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5cbaea012e19483f14dfdc26181a86b6b2bc8ec2f8b757260ce1d8d0ff101979"
+metafile = true
