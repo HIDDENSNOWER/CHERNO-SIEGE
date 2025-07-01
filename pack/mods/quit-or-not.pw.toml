@@ -1,0 +1,13 @@
+name = "Quit or Not"
+filename = "QuitOrNot-1.0.1+Forge+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf1d08b094ff78cedb2f0291d22cf8916c5de8f7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5014498
+project-id = 943927
