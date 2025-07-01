@@ -1,0 +1,9 @@
+confirmedMultiworld:mw-9,1,5
+autoMWBinding:mw-7,0,8:mw-9,1,5
+autoMWBinding:mw-9,1,5:mw$default
+autoMWBinding:mw$default:mw-7,0,8
+MWName:mw-9,1,5:Map 1
+MWName:mw-7,0,8:Map 3
+MWName:mw$default:Default
+caveModeType:0
+dimensionTypeId:minecraft:overworld
