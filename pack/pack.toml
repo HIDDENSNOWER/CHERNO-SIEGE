@@ -1,12 +1,12 @@
 name = "CHERNO-SIEGE"
 author = "HIDDENSNOWER"
-version = "0.1.0"
+version = "0.2.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ffc6e75a582480999a124b5474af39f4bc03b51809588519e93fb8e1b21fe95c"
+hash = "2996173f9a8920a5953581356172de421abec4e9ba75cfa96b922d063c883942"
 
 [versions]
 forge = "47.4.2"
