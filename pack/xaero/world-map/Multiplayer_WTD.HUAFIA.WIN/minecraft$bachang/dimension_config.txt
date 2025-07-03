@@ -1,4 +1,0 @@
-MWName:mw0,-1,0:Map 1
-MWName:mw-2,0,3:Map 2
-caveModeType:1
-dimensionTypeId:minecraft:overworld
